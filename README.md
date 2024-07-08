@@ -16,4 +16,4 @@
 - Connaître les rôles du "Control Plane" et du "Data Plane" dans Kubernetes.
 - Décrire et énoncer les fonctions de quelques objets essentiels de Kubernetes : "Namespaces", "Pods", "Deployments", "Services", "ReplicaSets", etc.
 
-[x][Compte-rendu Workshop Kubernetes](cr/cr.md)
+[x] [Compte-rendu Workshop Kubernetes](cr/cr.md)
