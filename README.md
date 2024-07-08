@@ -17,7 +17,7 @@
 - Utiliser un label;
 - Utiliser les concepts de "taint & toleration";
 - Mettre un noeud k8s en maintenance et le remettre en production;
-- Générer une dénition en "Yaml" d'un objet k8s à partir d'un "dry-run";
+- Générer une défnition en "Yaml" d'un objet k8s à partir d'un "dry-run";
 - "kubernétiser" une image Docker;
 - Rendre disponible son application en dehors du Cluster (services dont "NodePort" et "LoadBalancer", "ingress controller", "Bare metal loadbalancer","Ingress Controller");
 - Gérer le cycle de vie d'une application dans Kubernetes;
