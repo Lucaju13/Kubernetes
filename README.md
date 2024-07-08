@@ -7,7 +7,7 @@
 - La haute disponibilité du "control plane" de Kubernetes ne sera pas abordée.
 
 ### Compétences visées
-- Travailler avec une conguration Kubernetes sur son propre poste;
+- Travailler avec une confguration Kubernetes sur son propre poste;
 - Utiliser la commande "kubectl";
 - Transformer les commandes "imperative" en "declarative";
 - Utiliser Docker et Kubernetes
