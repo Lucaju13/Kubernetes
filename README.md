@@ -21,7 +21,7 @@
 - "kubernétiser" une image Docker;
 - Rendre disponible son application en dehors du Cluster (services dont "NodePort" et "LoadBalancer", "ingress controller", "Bare metal loadbalancer","Ingress Controller");
 - Gérer le cycle de vie d'une application dans Kubernetes;
-- Utiliser le manager d'applications "Helm" for "fun & prot";
+- Utiliser le manager d'applications "Helm" for "fun & profit";
 - Stocker des données de façon permanente dans un cluster
 
 ### Ce qui m'apporté comme savoirs
