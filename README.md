@@ -1,7 +1,7 @@
 # Kubernetes
 ## Description
 
-### ### Objectif du Workshop
+### Objectif du Workshop
 - Orchestrer des conteneurs pour améliorer la disponibilité et la scalabilité des applications.
 - La haute disponibilité du "control plane" de Kubernetes ne sera pas abordée.
 
