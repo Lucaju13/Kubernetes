@@ -4,4 +4,4 @@
 
 - installer kubectl sur votre machine!
 
-![Alt](../images/img_p0_1.png)
+![Alt](../images/img_p1_1.png)
